@@ -232,13 +232,14 @@ Ou apenas:
 ✔ README técnico completo
 
 📊 Distribuição de Nota
-Semana	Pontos
-1	        1
-2	        1
-3	        1
-4	        2
-5	        2
-6	        3
+
+Semana	  Pontos
+  1	        1
+  2	        1
+  3	        1
+  4	        2
+  5	        2
+  6	        3
 
 
 🧠 PROJETO BASE OFICIAL DA DISCIPLINA
@@ -250,7 +251,7 @@ CI-API-DSM-2026
 Tema:
 API simples de gerenciamento de usuários.
 
-Evolução ao longo do semestre:
+📊 Evolução ao longo do semestre:
 
   Fase	            Evolução
 Semana 1	       API básica
