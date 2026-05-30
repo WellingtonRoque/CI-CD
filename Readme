@@ -260,3 +260,31 @@ Semana 3	           CI
 Semana 4	         Testes
 Semana 5	         Docker
 Semana 6	         Deploy
+
+# 🚀 Disciplina: Integração e Entrega Contínua (CI/CD)
+
+Professor: Wellington Roque
+
+## 📚 Aulas
+
+### Aula 01 - Git do Zero (Passo a Passo Operacional Completo)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/Aula01_CI_CD_Git_Fundamentos.ipynb)
+
+### Aula 02 - GitHub Branches e Pull Requests
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/Aula02_GitHub_Branches_PullRequest.ipynb)
+
+### Aula 03 - GitHub Actions
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/Aula03_GitHub_Actions.ipynb)
+
+### Aula 04 - CI/CD com Pytest e Fluxo Completo
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/Aula04_CI_CD_Pytest_Fluxo_Completo.ipynb)
+
+### Aula 05 - Branch Protegida e CI Obrigatório
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/Aula05_Branch_Protegida_CI_Obrigatorio.ipynb)
+
+### Aula 06 - Deploy Automático no Render
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/Aula06_CI_CD_Deploy_Render_Completo.ipynb)
+
+## 🎯 Atividade Final Integradora
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WellingtonRoque/CI-CD/blob/main/ATIVIDADE_FINAL_INTEGRADORA.ipynb)
